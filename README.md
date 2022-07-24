@@ -1,3 +1,6 @@
+A CRUD application that models an E-commerce database using ReactJS, NodeJS and MySQL.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
